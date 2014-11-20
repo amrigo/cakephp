@@ -1,0 +1,10 @@
+Changelog
+
+1. Criada a base de dados tarefas
+2. Criada tabela tasks.
+3. Criada a Model
+4. Criada o controller
+5. Implementados os métodos CRUD
+6. Habilitado REST em app/Config/routes.php adicionando as linhas :
+Router::mapResources('tarefas');
+Router::parseExtensions();
