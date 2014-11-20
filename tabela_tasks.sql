@@ -1,3 +1,4 @@
+-- Base de dados
 CREATE IF NOT EXISTS DATABASE tarefas;
 
 CREATE TABLE `tasks` (
